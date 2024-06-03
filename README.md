@@ -1,2 +1,0 @@
-# Infinite Runner Project
- 
